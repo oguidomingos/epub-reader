@@ -1,0 +1,6 @@
+ebooklib==0.17.1
+gTTS==2.2.2
+beautifulsoup4==4.9.3
+pygame==2.0.1
+tkinter==0.0.0
+logging==0.5.1.2
